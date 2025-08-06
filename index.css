@@ -1,0 +1,54 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.titlep {
+    color: khaki;
+    text-align: centered horizontal;;
+    padding: 20px 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    background-image: url('E:/projects/dasmoto\'s art and draft/resources/images/pattern.webp');
+}
+#introduction {
+    color: white;
+    background-color:aquamarine;
+    padding: 10px 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: left;
+    }
+    .types {
+    color: blue;
+    background-color: white;
+    }
+    #hello {
+        color: white;
+        background-color: lightcoral;
+        padding: 10px 0;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 32px;
+        font-weight: bold;
+        text-align: left;
+    }
+    #hi {
+        color: white;
+        background-color: lightseagreen;
+        padding: 10px 0;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 32px;
+        font-weight: bold;
+        text-align: left;
+    }
